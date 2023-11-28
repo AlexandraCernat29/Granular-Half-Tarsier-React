@@ -1,0 +1,7 @@
+.my-image-component-container {
+  display: flex;
+  position: relative;
+}
+.my-image-component-image {
+  height: 2rem;
+}
